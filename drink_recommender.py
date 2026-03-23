@@ -2,7 +2,7 @@ import pandas as pd
 
 print("🍹 Welcome to the Drink Recommendation System!")
 print("Answer a few questions and we’ll suggest a drink for you.\n")
-
+ 
 # Create dataset
 data = {
     "drink": ["Mojito", "Cola", "Lemonade", "Iced Tea", "Coffee", "Beer", "Wine"],
